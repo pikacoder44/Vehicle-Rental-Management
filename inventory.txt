@@ -1,0 +1,5 @@
+Honda Sedan 1001 45000 Civic 0
+Toyota SUV 1002 32000 Fortuner 0
+Isuzu Truck 1003 70000 NPR 0
+Porsche Sedan 2244 224 911RS3 0
+Lamborghini Sedan 5566 233 Cyan 1
